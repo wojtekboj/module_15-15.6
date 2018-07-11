@@ -1,1 +1,1 @@
-Link do Zadania 15.6 https://github.com/wojtekboj/module_15-15.6/index.html
+Link do Zadania 15.6 https://wojtekboj.github.io/module_15-15.6//index.html
