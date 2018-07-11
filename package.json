@@ -1,0 +1,25 @@
+{
+  "name": "15.6",
+  "version": "1.0.0",
+  "description": "Zadanie 15.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init:gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore",
+    "start": "babel script.js --watch --out-file script-compiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtekboj/module_15-15.6.git"
+  },
+  "author": "Wojciech Bojarczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtekboj/module_15-15.6/issues"
+  },
+  "homepage": "https://github.com/wojtekboj/module_15-15.6#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
